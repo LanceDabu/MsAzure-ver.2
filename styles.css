@@ -100,7 +100,55 @@ select {
     margin-bottom: 20px;
 }
 
-.action-btn {
+.action-btn1 {
+    background-color: #30A8E7;
+    border: none;
+    color: #ECF0F3;
+    padding: 12px 25px; 
+    font-size: 16px;
+    border-radius: 7.5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.action-btn2 {
+    background-color: #30A8E7;
+    border: none;
+    color: #ECF0F3;
+    padding: 12px 25px; 
+    font-size: 16px;
+    border-radius: 7.5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.action-btn3 {
+    background-color: #30A8E7;
+    border: none;
+    color: #ECF0F3;
+    padding: 12px 25px; 
+    font-size: 16px;
+    border-radius: 7.5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.action-btn4 {
     background-color: #30A8E7;
     border: none;
     color: #ECF0F3;
@@ -120,3 +168,4 @@ select {
     background-color: #0E57A0;
     transform: scale(1.05);
 }
+
